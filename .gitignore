@@ -1,9 +1,11 @@
-# Ignore dataset and heavy files
+# Ignore heavy dataset files (images & weights)
 images/
 *.pth
 *.pt
-*.json
-*.png
+
+# Ignore only large JSON if needed (NOT all)
+# Example: ignore only specific large files if required
+# large_file.json
 
 # Python cache
 __pycache__/
