@@ -10,3 +10,4 @@ images/
 # Python cache
 __pycache__/
 *.pyc
+polyvore_item_metadata.json
