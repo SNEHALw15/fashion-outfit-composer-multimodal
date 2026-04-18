@@ -1,0 +1,10 @@
+# Ignore dataset and heavy files
+images/
+*.pth
+*.pt
+*.json
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
